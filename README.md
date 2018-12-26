@@ -25,10 +25,15 @@ The canvas waits for light signals on intervals of one Morse unit, once it recei
 
 ## Gallery
 ![alt text](https://raw.githubusercontent.com/RohitKochhar/MorsaLisa/master/Public/Images/BreadboardLayout.jpg)
+
 Connections and breaboard layout
-![alt text](https://raw.githubusercontent.com/RohitKochhar/MorsaLisa/master/Public/Images/MorseLegend.jpg)
+
+![alt text](https://raw.githubusercontent.com/RohitKochhar/MorsaLisa/master/Public/Images/MorseLegend.JPG)
+
 Morse code legend, explaining unit system (Retrieved from Wikipedia)
+
 ![alt text](https://raw.githubusercontent.com/RohitKochhar/MorsaLisa/master/Public/Videos/demo.mp4)
+
 A demo video, spelling out "THE QUICK BROWN FOX JUMPS OVER THE LAZY BROWN DOG"
 
 More information to come soon! (Posted 26/12/2018)
