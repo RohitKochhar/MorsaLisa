@@ -24,11 +24,11 @@ A photoresistor has a resistance which depends on the light exposed to the surfa
 The canvas waits for light signals on intervals of one Morse unit, once it receives it's first '1', it creates a binary string representing the light patterns, of the form '1010101000100010111010100010111010100011101110111000000000'. This is converted to Morse using the unit conversions seen below, (ex. 000 translates to the end of a letter, 00000000 translates to the end of a word). Continuing with our example of our above binary string, this is then converting from binary to Morse, and looks like the following '.... . .-.. .-.. ---'. This string is then passed into another function, converting from Morse to alphabet, and finally, it will be returned as the final product, "HELLO".
 
 ## Gallery
-![alt text](https://raw.githubusercontent.com/RohitKochhar/MorsaLisa/master/Public/Photos/BreadboardLayout.jpg)
+![alt text](https://raw.githubusercontent.com/RohitKochhar/MorsaLisa/master/Public/Images/BreadboardLayout.jpg)
 Connections and breaboard layout
-![alt text](https://raw.githubusercontent.com/RohitKochhar/MorsaLisa/master/Public/Photos/MorseLegend.jpg)
+![alt text](https://raw.githubusercontent.com/RohitKochhar/MorsaLisa/master/Public/Images/MorseLegend.jpg)
 Morse code legend, explaining unit system (Retrieved from Wikipedia)
-![alt text](https://raw.githubusercontent.com/RohitKochhar/MorsaLisa/master/Public/Photos/demo.mp4)
+![alt text](https://raw.githubusercontent.com/RohitKochhar/MorsaLisa/master/Public/Videos/demo.mp4)
 A demo video, spelling out "THE QUICK BROWN FOX JUMPS OVER THE LAZY BROWN DOG"
 
 More information to come soon! (Posted 26/12/2018)
