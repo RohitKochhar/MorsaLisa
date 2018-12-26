@@ -32,8 +32,4 @@ Connections and breaboard layout
 
 Morse code legend, explaining unit system (Retrieved from Wikipedia)
 
-![alt text](https://raw.githubusercontent.com/RohitKochhar/MorsaLisa/master/Public/Videos/demo.mp4)
-
-A demo video, spelling out "THE QUICK BROWN FOX JUMPS OVER THE LAZY BROWN DOG"
-
 More information to come soon! (Posted 26/12/2018)
